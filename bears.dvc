@@ -1,0 +1,6 @@
+outs:
+- md5: 2d27ff562a28241bebf9c4fa0701fb90.dir
+  size: 327451528
+  nfiles: 426
+  hash: md5
+  path: bears
